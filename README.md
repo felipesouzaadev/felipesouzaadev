@@ -11,7 +11,7 @@
 <p>Desenvolvedor Front-End apaixonado por tecnologia e programação. Desde criança envolvido nesse mundo, sempre fui curioso e pesquisador de como, porque, algo funciona, sua tecnologia por trás e como de fato ela é e pode ser usada. Ao longo dos anos, conheci a área de programação no qual, deslumbrado pelos códigos e o que eles poderiam fazer, vi alí mesmo que era o que queria para a minha carreira profissional. Hoje, tenho as bases e fundamentos necessários para atuar no mercado de trabalho de Desenvolvimento Web com foco na stack de Javascript. Englobando todo o ecossistema de desenvolvimento de sistemas web Front-end e Back-end. Tendo o meu foco no Front-End e com conhecimentos também no Back-End, procurando estar em constante evolução profissional e pessoal.</p>
 
 <h3>Como me encontrar 👇</h3>
-<p>LinkedIn: https://www.linkedin.com/in/felipe-souza-dev/</p>
+ <a href="https://www.linkedin.com/in/felipe-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!---
 felipesouzaadev/felipesouzaadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
