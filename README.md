@@ -8,7 +8,7 @@
 </div>
 
 <h3>Um pouco sobre mim 👨‍💻</h3>
-<p>Eu sou o Felipe, apaixonado por futebol e tecnologia. Tenho 24 anos, sou um QA Analyst e estou buscando oportunidades e desafios nessa área.
+<p>Eu sou o Felipe, apaixonado por futebol e tecnologia! Tenho 24 anos, sou um QA Analyst e estou buscando oportunidades e desafios nessa área.
 
 Tudo começou desde criança, vendo o meus familiares, especialmente meu pai, trabalhando na área de tecnologia. Foi alí onde a paixão por essa área floresceu! Fui crescendo e vendo cada detalhe, formas e jeitos de fazer algo, saber o porque e como funciona cada coisa. Fui introduzido nesse mundo maravilhoso com uma missão: ajudar outras pessoas, empresas onde eu passar, à desenvolver soluções tecnológicas e estratégias sempre com o intuito de ajudar o próximo. Na medida que fui crescendo, fui vendo à minha paixão pela área de qualidade, foi quando decidi que era isso que queria trabalhar futuramente! Então, daí começou a minha trajetória de estudos sobre Analista de testes de software. Hoje, me encontro em uma transição de carreira, buscando uma oportunidade na área de Analista de QA e atráves das minhas experiências profissionais da área de vendas, sou um profissional alinhado à comunicação, entrega de resultados, colaborativo, gosto de trabalhar em equipe, persistente, empatia com o próximo, flexível, organizado, resolvedor de problemas. Estou em uma jornada constante de aprendizado e melhorias para me tornar um Analista de QA incrível.
 
