@@ -1,5 +1,5 @@
  <h2>👋 Olá, eu sou o Felipe Souza.</h2>
-<p>QA Analyst Jr | SQL | Cucumber | Selenium | Javascript | Swagger | Postman | Docker .</p>
+<p>Desenvolvedor Backend | Java | Golang | Javascript | Spring Boot | AWS | Mongo DB | PostgreSQL | Docker .</p>
 
 <div>
   <a href="https://github.com/felipesouzaadev">
@@ -10,30 +10,30 @@
 <h3>Um pouco sobre mim 👨‍💻</h3>
 <p>Eu sou o Felipe, apaixonado por futebol e tecnologia! Tenho 24 anos, sou um QA Analyst e estou buscando oportunidades e desafios nessa área.
 
-Tudo começou desde criança, vendo o meus familiares, especialmente meu pai, trabalhando na área de tecnologia. Foi alí onde a paixão por essa área floresceu! Fui crescendo e vendo cada detalhe, formas e jeitos de fazer algo, saber o porque e como funciona cada coisa. Fui introduzido nesse mundo maravilhoso com uma missão: ajudar outras pessoas, empresas onde eu passar, à desenvolver soluções tecnológicas e estratégias sempre com o intuito de ajudar o próximo. Na medida que fui crescendo, fui vendo à minha paixão pela área de qualidade, foi quando decidi que era isso que queria trabalhar futuramente! Então, daí começou a minha trajetória de estudos sobre Analista de testes de software. Hoje, me encontro em uma transição de carreira, buscando uma oportunidade na área de Analista de QA e atráves das minhas experiências profissionais da área de vendas, sou um profissional alinhado à comunicação, entrega de resultados, colaborativo, gosto de trabalhar em equipe, persistente, empatia com o próximo, flexível, organizado, resolvedor de problemas. Estou em uma jornada constante de aprendizado e melhorias para me tornar um Analista de QA incrível.
+Minha jornada em TI começou no suporte, onde cada chamado era uma oportunidade de aprendizado. Lidando com um alto volume de tickets (cerca de 10.000 por mês), percebi que muitos processos poderiam ser automatizados. Foi assim que minha curiosidade pelo desenvolvimento Back-End nasceu. Implementei fluxos otimizados e scripts para automatizar tarefas repetitivas, aumentando a eficiência da equipe e melhorando a experiência do usuário. Estudo linguagens como Java, JavaScript e Golang, focando em criar soluções robustas que vão além do suporte técnico. Meu objetivo é migrar para o desenvolvimento Back-End, unindo minha experiência em resolver problemas reais com a capacidade de construir sistemas eficientes. Estou sempre em busca de novos desafios e pronto para contribuir com soluções inovadoras..
 
 Eu venho estudando e adquirindo habilidades como:
 
 - SQL
-- Scrum
-- Cucumber
-- Jira
-- Selenium
+- Java
+- Golang
+- Javascript
+- Spring Boot
 - Javascript
 - Html
 - Css
 - Git
-- Restful API
-- NodeJs
-- Swagger
+- AWS
+- Mongo DB
+- PostgreSQL
 - Postman
 - Docker
 
 
-Contato: felipexandeqa789@gmail.com</p>
+Contato: felipedevsampaio78@gmail.com</p>
 
 <h3>Como me encontrar 👇</h3>
- <a href="https://www.linkedin.com/in/felipexandeqa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/felipedevasampaioo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!---
 felipesouzaadev/felipesouzaadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
