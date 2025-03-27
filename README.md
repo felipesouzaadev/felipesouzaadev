@@ -8,7 +8,7 @@
 </div>
 
 <h3>Um pouco sobre mim 👨‍💻</h3>
-<p>Eu sou o Felipe, apaixonado por futebol e tecnologia! Tenho 24 anos, sou um QA Analyst e estou buscando oportunidades e desafios nessa área.
+<p>Eu sou o Felipe, apaixonado por futebol e tecnologia! Tenho 26 anos, sou um Desenvolvedor Backend e estou buscando oportunidades e desafios nessa área.
 
 Minha jornada em TI começou no suporte, onde cada chamado era uma oportunidade de aprendizado. Lidando com um alto volume de tickets (cerca de 10.000 por mês), percebi que muitos processos poderiam ser automatizados. Foi assim que minha curiosidade pelo desenvolvimento Back-End nasceu. Implementei fluxos otimizados e scripts para automatizar tarefas repetitivas, aumentando a eficiência da equipe e melhorando a experiência do usuário. Estudo linguagens como Java, JavaScript e Golang, focando em criar soluções robustas que vão além do suporte técnico. Meu objetivo é migrar para o desenvolvimento Back-End, unindo minha experiência em resolver problemas reais com a capacidade de construir sistemas eficientes. Estou sempre em busca de novos desafios e pronto para contribuir com soluções inovadoras..
 
