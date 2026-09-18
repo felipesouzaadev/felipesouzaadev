@@ -1,11 +1,6 @@
  <h2>👋 Olá, eu sou o Felipe Souza.</h2>
 <p>QA Engineer | Cypress | Postman | Scrum | Playwright | SDET | QA | Tester .</p>
 
-<div>
-  <a href="https://github.com/felipesouzaadev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipesouzaadev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesouzaadev&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
 
 <h3>Um pouco sobre mim 👨‍💻</h3>
 <p>Eu sou o Felipe, apaixonado por futebol e tecnologia! Tenho 27 anos, sou um QA Engineer e estou buscando oportunidades e desafios nessa área.
